@@ -5,6 +5,7 @@ En mi caso he usado el nombre BBB.mp4 para el video.
 
 ##EX1
 Uso subprocess para poder ejecutar un comando que usa ffprove (de ffmpeg) para imprimir la data del container (en este caso del video BBB.mp4)
+El resultado se imprime por linea de comandos.
 
 Referencia: https://ourcodeworld.com/articles/read/1484/how-to-get-the-information-and-metadata-of-a-media-file-audio-or-video-in-json-format-with-ffprobe
 
@@ -34,3 +35,11 @@ Referencias:
 	Read string after character: https://linuxhint.com/substring-after-character-python/
 
 ##EX4
+
+
+
+Finalmente he juntado todos los ejercicios en un único fichero P2.py
+Como en el ejercicio 1 sale el resultado por la linea de comandos, al ejecutar todos los ejercicios estará el resultado arriba de todo.
+
+Incluyo en fichero P2.py para ejecutar todo la práctica entera y los ficheros P2_ex.py de cada ejercicio por si quieres ejecutar alguno 
+por separado, como el ejercicio 3 ya que es interesante probar con varias resoluciones y cambiar el input entre imagen y video
