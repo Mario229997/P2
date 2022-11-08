@@ -3,6 +3,9 @@
 No incluyo el video de big buck bunny ya que ocupa demasiado. He usado uno en 1080p de 10:34 de duración. 
 En mi caso he usado el nombre BBB.mp4 para el video.
 
+Incluyo un fichero P2.py para ejecutar toda la práctica entera y los ficheros P2_ex.py de cada ejercicio por si quieres ejecutar alguno 
+por separado, como el ejercicio 3 ya que es interesante probar con varias resoluciones y cambiar el input entre imagen y video.
+
 ##EX1
 Uso subprocess para poder ejecutar un comando que usa ffprove (de ffmpeg) para imprimir la data del container (en este caso del video BBB.mp4)
 El resultado se imprime por linea de comandos.
@@ -37,9 +40,8 @@ Referencias:
 ##EX4
 
 
-
 Finalmente he juntado todos los ejercicios en un único fichero P2.py
-Como en el ejercicio 1 sale el resultado por la linea de comandos, al ejecutar todos los ejercicios estará el resultado arriba de todo.
 
-Incluyo en fichero P2.py para ejecutar todo la práctica entera y los ficheros P2_ex.py de cada ejercicio por si quieres ejecutar alguno 
-por separado, como el ejercicio 3 ya que es interesante probar con varias resoluciones y cambiar el input entre imagen y video
+Como en el ejercicio 1 sale el resultado por la linea de comandos, al ejecutar todos los ejercicios con P2.py el resultado del 1 sale arriba del todo.
+
+
